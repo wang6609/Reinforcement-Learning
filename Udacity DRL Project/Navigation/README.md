@@ -1,6 +1,6 @@
 # Navigation
 ## Deep Reinforcement Learning
-Using Reinforcement Learning to solve a navigation problem. **Python3** and **PyTorch** is used. This is one of the projects of the Udacity Deep Reinforcement Learning Nanodegree. 
+Using Reinforcement Learning to solve a navigation problem. **Python3** and **PyTorch** is used. This is the first project in the Deep Reinforcement Learning Nanodegree from Udacity.
 
 The following game environment description and programming envirionment setting is provided by Udacity.
 
@@ -27,6 +27,6 @@ Please follow the [instructions in the DRLND GitHub repository](https://github.c
 
 *Step 2: Download the Unity Environment*
 
-For this project, we can use the environment Udacity build. Put the **Banana.app.zip** (can be found in this folder) in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+For this project, we can use the environment Udacity build. Put the **Banana.app.zip** (can be found in this folder and this is for Mac) in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
 
