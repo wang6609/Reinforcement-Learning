@@ -2,7 +2,8 @@
 ## Deep Reinforcement Learning
 Using Reinforcement Learning to solve a navigation problem. **Python3** and **PyTorch** is used. This is one of the projects of the Udacity Deep Reinforcement Learning Nanodegree.
 
-The goal of this project is to train a agent navigating in the world shown in the gif below, collecting as much yellow bananas as possible while avoiding toucing the blue ones.
+The goal of this project is to train an agent navigating in the world shown in the gif below, collecting as much yellow bananas as possible while avoiding toucing the blue ones.
+
 ![banana](https://user-images.githubusercontent.com/33606479/48532564-8924d200-e866-11e8-96eb-b006a2505800.gif)
 
 The environment is provided by **Unity**. To play with this environment, please follow the described two steps:
