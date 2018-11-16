@@ -29,4 +29,5 @@ Please follow the [instructions in the DRLND GitHub repository](https://github.c
 
 For this project, we can use the environment Udacity build. Put the **Banana.app.zip** (can be found in this folder and this is for Mac) in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
 
-
+In this video, the agent I trained get a score of +17.
+https://www.youtube.com/watch?v=0dpAEdseCRQ
