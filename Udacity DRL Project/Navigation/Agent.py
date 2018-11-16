@@ -2,7 +2,7 @@ import numpy as np
 import random
 from collections import namedtuple, deque
 
-#from NN_model import QNetwork
+from NN_model import QNetwork
 
 import torch
 import torch.nn.functional as F
