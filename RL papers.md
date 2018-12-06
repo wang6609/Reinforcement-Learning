@@ -15,8 +15,8 @@
 **Proximal Policy Optimization**
 
 ## Actor-critic
-
-**Continuous control with deep reinforcement learning**
+**Deterministic Policy Gradient Algorithms (DPG)**
+**Continuous control with deep reinforcement learning (DDPG)**
 
 ## Multi-Agent
 
