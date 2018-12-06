@@ -1,6 +1,6 @@
 ## DQN and improvements
 
-**Human-level control through deep reinforcement learning**
+**Human-level control through deep reinforcement learning (DQN)**
 
 **Deep Reinforcement Learning with Double Q-learning**
 
@@ -12,10 +12,11 @@
 
 ## Policy-based
 
-**Proximal Policy Optimization**
+**Proximal Policy Optimization (PPO)**
 
 ## Actor-critic
 **Deterministic Policy Gradient Algorithms (DPG)**
+
 **Continuous control with deep reinforcement learning (DDPG)**
 
 ## Multi-Agent
