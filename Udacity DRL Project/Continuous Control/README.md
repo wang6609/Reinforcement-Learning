@@ -26,3 +26,13 @@ The barrier for solving the second version of the environment is slightly differ
 
 After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. We then take the average of these 20 scores.
 This yields an average score for each episode (where the average is over all 20 agents).
+
+The environment is provided by **Unity**. To play with this environment, please follow the described two steps:
+
+*Step 1: Clone the DRLND Repository*
+
+Please follow the [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in 'README.md' at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+
+*Step 2: Download the Unity Environment*
+
+For this project, we can use the environment Udacity build. Put the **Reacher.app.zip** (can be found in this folder and this is for Mac) in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
