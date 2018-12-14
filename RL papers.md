@@ -22,3 +22,6 @@
 ## Multi-Agent
 
 **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments**
+
+## Posts
+[DRL does't work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
