@@ -27,6 +27,7 @@ The barrier for solving the second version of the environment is slightly differ
 After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 20 (potentially different) scores. We then take the average of these 20 scores.
 This yields an average score for each episode (where the average is over all 20 agents).
 
+## Setting up the envirionment
 The environment is provided by **Unity**. To play with this environment, please follow the described two steps:
 
 *Step 1: Clone the DRLND Repository*
@@ -35,4 +36,9 @@ Please follow the [instructions in the DRLND GitHub repository](https://github.c
 
 *Step 2: Download the Unity Environment*
 
-For this project, we can use the environment Udacity build. Put the **Reacher.app.zip** (can be found in this folder and this is for Mac) in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+For this project, we can use the environment Udacity build. Put the **Reacher.app.zip** (can be found in this folder and this is for Mac) in the p2_continuous_control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
+
+## How to use my code
+Please put my code into the p2_continuous_control/ folder and then open the Jupyternote book **Report**. First, run the code under **Start the Environment**. Then, you can either use the saved weights and see the performance directly (run the code under **Use the trained agent**) or train a new agent from random initialization (run the code under **Train an agent by DDPG**). Also, you can see the performance of an agent with random behavior (run the code under **Take Random Actions in the Envirionment**).
+
+You can play with the hyperparameters in the **Agent_NN.py** and change the structures of the neural network in the **NN_model.py**.
