@@ -31,4 +31,4 @@ Please put my code into the p3_collab_compet/ folder and then open the Jupyterno
 
 You can play with the hyperparameters in the **Agent_NN.py** and change the structures of the neural network in the **NN_model.py**.
 
-**Check out this video of my trained agents play tennis! [Youtube link](https://www.youtube.com/watch?v=2zKOLK5tIQo)
+## Check out this video of my trained agents play tennis! [Youtube link](https://www.youtube.com/watch?v=2zKOLK5tIQo)
