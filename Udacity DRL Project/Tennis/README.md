@@ -30,3 +30,5 @@ For this project, we can use the environment Udacity build. Put the **Tennis.app
 Please put my code into the p3_collab_compet/ folder and then open the Jupyternote book **Report**. First, run the code under **Start the Environment**. Then, you can either use the saved weights and see the performance directly (run the code under **Use the trained agents**) or train a new agent from random initialization (run the code under **Train the agents**). Also, you can see the performance of agents with random behavior (run the code under **Take Random Actions in the Envirionment**).
 
 You can play with the hyperparameters in the **Agent_NN.py** and change the structures of the neural network in the **NN_model.py**.
+
+**Check out this video of my trained agents play tennis!** [Youtube link](https://www.youtube.com/watch?v=2zKOLK5tIQo)
