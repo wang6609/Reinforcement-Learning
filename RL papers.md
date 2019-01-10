@@ -15,6 +15,8 @@
 **Proximal Policy Optimization (PPO)**
 
 ## Actor-critic
+**Asynchronous Methods for Deep Reinforcement Learning (A3C)**
+
 **Deterministic Policy Gradient Algorithms (DPG)**
 
 **Continuous control with deep reinforcement learning (DDPG)**
