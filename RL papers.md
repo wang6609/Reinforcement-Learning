@@ -8,6 +8,8 @@
 
 **Dueling Network Architectures for Deep Reinforcement Learning**
 
+**A Distributional Perspective on Reinforcement Learning**
+
 **Rainbow: Combining Improvements in Deep Reinforcement Learning**
 
 ## Policy-based
