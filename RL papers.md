@@ -10,6 +10,12 @@
 
 **A Distributional Perspective on Reinforcement Learning**
 
+**An Analysis of Categorical Distributional Reinforcement Learning**
+
+**Distributional Reinforcement Learning with Quantile Regression**
+
+**Implicit Quantile Networks for Distributional Reinforcement Learning**
+
 **Rainbow: Combining Improvements in Deep Reinforcement Learning**
 
 ## Policy-based
