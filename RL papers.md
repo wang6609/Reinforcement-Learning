@@ -19,6 +19,7 @@ Implicit Quantile Networks for Distributional Reinforcement Learning
 Rainbow: Combining Improvements in Deep Reinforcement Learning
 
 ## Policy-based
+Trust Region Policy Optimization(TRPO)
 
 Proximal Policy Optimization (PPO)
 
@@ -34,6 +35,8 @@ Distributed Distributional Deterministic Policy Gradients (D4PG)
 ## Multi-Agent
 
 Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+
+## Survey
 
 ## Posts
 [DRL does't work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
