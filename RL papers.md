@@ -37,3 +37,5 @@ Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 
 ## Posts
 [DRL does't work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+
+[Deep Reinforcement Learning: Pong from Pixels (Andrej Karpathy)](http://karpathy.github.io/2016/05/31/rl/)
