@@ -20,6 +20,10 @@ Noisy Networks for Exploration
 
 Rainbow: Combining Improvements in Deep Reinforcement Learning
 
+Reinforcement Learning with Unsupervised Auxiliary Tasks (UNREAL)
+
+Hybrid Reward Architecture for Reinforcement Learning(HRA)
+
 ## Policy gradient and Actor-Critic
 Trust Region Policy Optimization(TRPO)
 
@@ -36,6 +40,14 @@ Deterministic Policy Gradient Algorithms (DPG)
 Continuous control with deep reinforcement learning (DDPG)
 
 Distributed Distributional Deterministic Policy Gradients (D4PG)
+
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep RL with a Stochastic Actor (SAC)
+
+## Model-based
+
+PILCO: A Model-Based and Data-Efficient Approach to Policy Search (PILCO)
+
+Temporal Difference Models: Model-Free Deep RL for Model-Based Control (TDM)
 
 ## Multi-Agent
 
