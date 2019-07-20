@@ -49,6 +49,16 @@ PILCO: A Model-Based and Data-Efficient Approach to Policy Search (PILCO)
 
 Temporal Difference Models: Model-Free Deep RL for Model-Based Control (TDM)
 
+Learning model-based planning from scratch
+
+Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models
+
+Imagination-Augmented Agents for Deep Reinforcement Learning
+
+Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning
+
+Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
+
 ## Multi-Agent
 
 Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
