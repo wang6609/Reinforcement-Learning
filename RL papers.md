@@ -41,9 +41,13 @@ Continuous control with deep reinforcement learning (DDPG)
 
 Distributed Distributional Deterministic Policy Gradients (D4PG)
 
+Addressing Function Approximation Error in Actor-Critic Methods (Twin Delayed DDPG, TD3)
+
 Soft Actor-Critic: Off-Policy Maximum Entropy Deep RL with a Stochastic Actor (SAC)
 
 ## Model-based
+
+Continuous Deep Q-Learning with Model-based Acceleration (NAF+imagination rollouts)
 
 PILCO: A Model-Based and Data-Efficient Approach to Policy Search (PILCO)
 
@@ -58,6 +62,8 @@ Imagination-Augmented Agents for Deep Reinforcement Learning
 Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning
 
 Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
+
+Neural Network Dynamics for Model-based DRL with Model-Free Fine-Tuning
 
 ## Multi-Agent
 
