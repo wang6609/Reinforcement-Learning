@@ -65,6 +65,18 @@ Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
 
 Neural Network Dynamics for Model-based DRL with Model-Free Fine-Tuning
 
+## Sim-to-Real
+
+Adapting Deep Visuomotor Representations with Weak Pairwise Constraints
+
+Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World
+
+EPOPT- LEARNING ROBUST NEURAL NETWORK POLICIES USING MODEL ENSEMBLES
+
+Sim-to-Real Transfer of Robotic Control with Dynamics Randomization
+
+Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping
+
 ## Multi-Agent
 
 Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
